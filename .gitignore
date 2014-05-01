@@ -1,0 +1,7 @@
+/app/Graph/
+/app/config/config.local.neon
+/temp/sessions/
+/temp/cache/
+/vendor/
+/composer.lock
+/nbproject/
