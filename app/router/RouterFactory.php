@@ -18,7 +18,7 @@ class RouterFactory
 	public function createRouter()
 	{
 		$router = new RouteList();
-		$router[] = new Route('<presenter>/<action>[/<id>]', 'Echo511GraphAdmin:Graph:node');
+		$router[] = new Route('<presenter>/<action>[/<id>]', 'Echo511GraphADMIN:Graph:node');
 		return $router;
 	}
 
